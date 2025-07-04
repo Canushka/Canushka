@@ -34,15 +34,6 @@ I'm a B.Tech student in Electrical Engineering who found her spark in writing cl
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Canushka&show_icons=true&theme=gruvbox" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canushka&layout=compact&theme=gruvbox" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka-blue?logo=linkedin)](https://www.linkedin.com/in/anushka-chatterjee-624877305/)
