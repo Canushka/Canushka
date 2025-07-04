@@ -1,35 +1,49 @@
 # 👋 Hi, I'm Anushka Chatterjee
 
-💻 Java Developer | 🌱 Learner for life | ⚡ Coffee + Code = Bliss
+💻 Java Developer | ⚙️ REST APIs | 🌱 Always Learning
 
-I'm a final-year B.Tech student in Electrical Engineering, deeply passionate about solving real-world problems with tech. I build RESTful APIs, explore data, and enjoy blending logic with creativity.
-
----
-
-## 🚀 Tech Stack:
-- 👩‍💻 Languages: Java, C, C++
-- 🧰 Tools: Postman, Git, MySQL, VS Code
-- 🧱 Frameworks: Spring Boot, REST APIs
-- 🗃️ Databases: MySQL, H2
-- 🎨 Design: Canva, Figma
+I'm a B.Tech student in Electrical Engineering who found her spark in writing clean, efficient code and building practical backend systems. With a strong grip on Java and a growing love for Spring Boot and APIs, I enjoy bringing logic and design together to create meaningful tech.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
 
-### 🔖 [Book Management REST API](https://github.com/Canushka/BookApplication)
-> A CRUD API for managing book records using Spring Boot, JPA, and MySQL.  
-> Includes H2 DB support, Postman-tested endpoints, and MVC architecture.
-
----
-
-## 📈 Stats
-
-![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Canushka&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Canushka&layout=compact&theme=dracula)
+- 👩‍💻 **Languages**: Java, C, C++
+- 🧰 **Tools**: Postman, Git, VS Code, IntelliJ
+- 🧱 **Frameworks**: Spring Boot, REST APIs
+- 🗄️ **Databases**: MySQL, H2
+- 🎨 **Design**: Canva, Figma
+- 📊 **Interests**: Data Analytics, AI fundamentals
 
 ---
 
-## 🌟 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka-blue?logo=linkedin)](https://linkedin.com/in/your-link)
+## 📌 Projects
 
+### 📘 [Book Management REST API](https://github.com/Canushka/BookApplication)
+> A full CRUD API using Java + Spring Boot + MySQL  
+> Features: Add, update, delete, and search books using REST endpoints  
+> Tools: Postman for testing, H2 for dev DB, MVC architecture  
+
+---
+
+## ✨ Currently Exploring
+
+- Building more REST-based mini projects
+- Diving deeper into Spring Security and authentication
+- Practicing DSA and Java problem solving daily
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Canushka&show_icons=true&theme=gruvbox" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canushka&layout=compact&theme=gruvbox" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka-blue?logo=linkedin)](https://www.linkedin.com/in/anushka-chatterjee-8876891b3/)  
+📫 Drop a message or check out my work on [GitHub](https://github.com/Canushka)
