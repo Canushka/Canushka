@@ -45,5 +45,5 @@ I'm a B.Tech student in Electrical Engineering who found her spark in writing cl
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka-blue?logo=linkedin)](https://www.linkedin.com/in/anushka-chatterjee-8876891b3/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka-blue?logo=linkedin)](https://www.linkedin.com/in/anushka-chatterjee-624877305/))  
 📫 Drop a message or check out my work on [GitHub](https://github.com/Canushka)
