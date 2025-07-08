@@ -31,6 +31,14 @@ I'm a B.Tech student in Electrical Engineering who found her spark in writing cl
 - Building more REST-based mini projects
 - Diving deeper into Spring Security and authentication
 - Practicing DSA and Java problem solving daily
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Canushka&show_icons=true&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canushka&layout=compact&theme=radical" height="180">
+</p>
 
 ---
 
