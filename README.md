@@ -36,34 +36,18 @@ I'm a B.Tech student in Electrical Engineering who found her spark in writing cl
 
 ### What motivates me?
 Honestly?  
-- A clean merge with zero conflicts.  
-- A perfectly deployed app (no Whitelabel 404s, thank you).  
-- When the H2 console actually opens on the first try.  
-- That moment when you finally understand what the heck `@Autowired` is doing.  
-- And the serotonin rush from solving a DSA problem in one go, with no null pointer exception.
+I’m fueled by clean code, smooth deployments, and those rare, magical moments when everything just works — no errors, no exceptions, just pure developer bliss.
 
-Basically, I run on your debug energy, Maven builds, and the sound of your keyboard clacking when you're in the zone.
+---
+Here’s a fun and compact summary of your **Fun Facts** and **Hobbies**:
 
 ---
 
-## 🧠 Fun Facts
+## 🌟 Fun Side of Me
 
-- Sarcastic and nerdy humor — like if Iron Man and a Java developer had a child.
-- Existential crisis? I joke about it. Preferably over coffee. Preferably while wearing purple.
-- I relate a bit too hard to the line:  
-  > “When you know who's calling even though the number is blocked” – yeah, Arctic Monkeys stay haunting.
-- Dogs? Always a yes. Humans? Let’s see their API first.
+I blend sarcastic, nerdy humor with existential jokes over coffee. I vibe with Arctic Monkeys lyrics a little too much, love dogs unconditionally, and treat humans like APIs — I need to see their docs first.
 
----
-
-## 🎯 Hobbies & Interests
-
-- Solving DSA problems like a woman on a mission (because I am).
-- Bingeing tech series + espionage thrillers = weekend sorted.
-- Lowkey researching the Intelligence Bureau like I already got clearance.
-- Blasting Doja Cat, because my playlist’s got more attitude than most people.
-- Getting hyped over Spring Data JPA (…after the 5th attempt to understand it).
-- Occasionally contemplating the Cold War at 3 AM (don’t worry, same).
+When I’m not deep into Spring Data JPA or DSA problems, you’ll find me bingeing spy thrillers, hyping over Cold War theories at 3 AM, or blasting Doja Cat like my playlist has something to prove.
 
 ---
 
