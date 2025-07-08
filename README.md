@@ -34,7 +34,7 @@ I'm a B.Tech student in Electrical Engineering who found her spark in writing cl
 
 ---
 
-### What motivates me?
+### ♟ What motivates me?
 Honestly?  
 I’m fueled by clean code, smooth deployments, and those rare, magical moments when everything just works — no errors, no exceptions, just pure developer bliss.
 
