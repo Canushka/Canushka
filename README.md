@@ -39,9 +39,6 @@ Honestly?
 I’m fueled by clean code, smooth deployments, and those rare, magical moments when everything just works — no errors, no exceptions, just pure developer bliss.
 
 ---
-Here’s a fun and compact summary of your **Fun Facts** and **Hobbies**:
-
----
 
 ## 🌟 Fun Side of Me
 
