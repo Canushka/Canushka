@@ -2,7 +2,7 @@
 
 💻 Java Developer | ⚙️ REST APIs | 🌱 Always Learning
 
-I'm a B.Tech student in Electrical Engineering who found her spark in writing clean, efficient code and building practical backend systems. With a strong grip on Java and a growing love for Spring Boot and APIs, I enjoy bringing logic and design together to create meaningful tech.
+I'm a B.Tech student in Electrical Engineering who found her spark in writing clean, efficient code and building practical backend systems. With a strong grasp of Java and a growing passion for Spring Boot and APIs, I enjoy combining logic and design to create meaningful technology.
 
 ---
 
