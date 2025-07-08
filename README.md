@@ -30,10 +30,9 @@ I'm a B.Tech student in Electrical Engineering who found her spark in writing cl
 
 ## ✨ Currently Exploring
 
-- Building more REST-based mini projects
-- Diving deeper into Spring Security and authentication
-- Practicing DSA and Java problem solving daily
----
+- Crafting RESTful APIs through hands-on mini projects  
+- Getting deeper into Spring Security & authentication flows  
+- Sharpening my DSA and Java skills through consistent daily practice
 
 ## 📊 GitHub Stats
 
