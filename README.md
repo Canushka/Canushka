@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anushka Chatterjee
+# 👋🏻 Hey, I'm Anushka Chatterjee
 
 💻 Java Developer | ⚙️ REST APIs | 🌱 Always Learning
 
