@@ -1,39 +1,46 @@
-# 👋🏻 Hey, I'm Anushka Chatterjee
+# 👋 Hey, I’m Anushka Chatterjee  
 
-💻 Java Developer | ⚙️ REST APIs | 🌱 Always Learning
-
-I'm a B.Tech student in Electrical Engineering who found her spark in writing clean, efficient code and building practical backend systems. With a strong grasp of Java and a growing passion for Spring Boot and APIs, I enjoy combining logic and design to create meaningful technology.
-
----
-
-## 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+💻 **Java Dev | Spring Boot Enthusiast | REST API Crafter**  
+⚡ Currently: Breaking things in dev so prod stays clean.  
 
 ---
 
-## 📌 Projects
+## 🛠️ My Tech Playground  
 
-### 📘 [Book Management REST API](https://github.com/Canushka/BookApplication)
-> A full CRUD API using Java + Spring Boot + MySQL  
-> Features: Add, update, delete, and search books using REST endpoints  
-> Tools: Postman for testing, H2 for dev DB, MVC architecture  
+- **Languages:** Java, JavaScript, C, C++  
+- **Frameworks:** Spring Boot, React (beginner, but surviving)  
+- **Databases:** H2, JPA, JDBC, MySQL (soon)  
+- **Tools I vibe with:** Git, Postman, IntelliJ, VS Code  
+- **Core Strengths:** OOP, MVC, RESTful APIs, DSA  
+
+> tl;dr → I like writing clean, testable code and yelling at compilers until they listen.  
 
 ---
 
-## ✨ Currently Exploring
+## 📌 Featured Builds  
 
-- Crafting RESTful APIs through hands-on mini projects  
-- Getting deeper into Spring Security & authentication flows  
-- Sharpening my DSA and Java skills through consistent daily practice
+### 📘 [Book Management REST API](https://github.com/Canushka/BookApplication)  
+- CRUD APIs with Spring Boot + JPA  
+- Dynamic search with path variables  
+- MVC structure because spaghetti belongs in the kitchen 🍝  
 
-## 📊 GitHub Stats
+---
+
+### 💊 [Medicine E-commerce REST API](https://github.com/Canushka/Ecom)  
+- Secure login & registration (DTOs + hashed passwords 🔐)  
+- CRUD for medicine inventory  
+- Controller → Service → Repository = Clean, modular architecture  
+
+---
+
+## 🚀 Currently Hacking On  
+- Spring Security (because “Hello World” isn’t secure enough)  
+- More mini REST APIs (practice > theory)  
+- DSA in Java → LeetCode, HackerRank grind 🔥  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Canushka&show_icons=true&theme=radical" height="180">
@@ -42,24 +49,22 @@ I'm a B.Tech student in Electrical Engineering who found her spark in writing cl
 
 ---
 
-## ♟ What motivates me?
+## 🧩 Fun Dev Facts  
 
-Honestly?  
-I’m fueled by clean code, smooth deployments, and those rare, magical moments when everything just works — no errors, no exceptions, just pure developer bliss.
-
----
-
-## 🌟 Fun Side of Me
-
-I blend sarcastic, nerdy humor with existential jokes over coffee. I vibe with Arctic Monkeys lyrics a little too much, love dogs unconditionally, and treat humans like APIs — I need to see their docs first.
-
-When I’m not deep into Spring Data JPA or DSA problems, you’ll find me bingeing spy thrillers, hyping over Cold War theories at 3 AM, or blasting Doja Cat like my playlist has something to prove.
+- I treat humans like APIs → *need to see the docs first*  
+- My playlists switch between **Arctic Monkeys & Doja Cat** faster than my Git branches  
+- Debugging at 3AM feels like espionage 🕵🏻‍♀️  
+- Dogs > humans. (Fight me.)  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka-blue?logo=linkedin)](https://www.linkedin.com/in/anushka-chatterjee-624877305/)
-📫 Drop a message or check out my work on [GitHub](https://github.com/Canushka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka-blue?logo=linkedin)](https://www.linkedin.com/in/anushka-chatterjee-624877305/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Canushka-black?logo=github)](https://github.com/Canushka)  
 
-Feel free to connect, collaborate, or just share memes about null pointer exceptions!
+📫 Drop me a mail at **anushkachatterjee1104@gmail.com**  
+
+---
+
+👉 *PRs, collabs, or just memes about `NullPointerException` → all welcome here.*  
