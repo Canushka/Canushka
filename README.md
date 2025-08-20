@@ -47,6 +47,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canushka&layout=compact&theme=radical" height="180">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Canushka&theme=radical&hide_border=true" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Canushka&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
+
+![Snake animation](https://github.com/Canushka/Canushka/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🧩 Fun Dev Facts  
