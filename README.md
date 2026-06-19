@@ -1,72 +1,141 @@
-# 👋 Hey, I’m Anushka Chatterjee  
+# 👋 Hey, I’m Anushka Chatterjee
 
-💻 **Java Dev | Spring Boot Enthusiast | REST API Crafter**  
-⚡ Currently: Breaking things in dev so prod stays clean.  
+💻 **Java Backend Developer | Spring Boot | REST API Developer**
+🚀 Building scalable backend systems with clean architecture, secure APIs, and reliable database design.
 
----
-
-## 🛠️ My Tech Playground  
-
-- **Languages:** Java, JavaScript, C, C++  
-- **Frameworks:** Spring Boot, React (beginner, but surviving)  
-- **Databases:** H2, JPA, JDBC, MySQL (soon)  
-- **Tools I vibe with:** Git, Postman, IntelliJ, VS Code  
-- **Core Strengths:** OOP, MVC, RESTful APIs, DSA  
-
-> tl;dr → I like writing clean, testable code and yelling at compilers until they listen.  
+I enjoy turning ideas into working software — designing APIs, structuring backend logic, solving problems, and continuously improving how systems perform. Currently exploring **FinTech backend engineering**, focusing on secure transactions, scalable services, and production-ready Java applications.
 
 ---
 
-## 📌 Featured Builds  
+## 🛠️ Tech Stack
 
-### 📘 [Book Management REST API](https://github.com/Canushka/BookApplication)  
-- CRUD APIs with Spring Boot + JPA  
-- Dynamic search with path variables  
-- MVC structure because spaghetti belongs in the kitchen 🍝  
+### 💻 Languages
+
+* Java
+* JavaScript
+* C
+* C++
+
+### ⚙️ Backend Development
+
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
+* Hibernate
+* RESTful APIs
+* JDBC
+
+### 🗄️ Databases
+
+* MySQL
+* H2 Database
+* Database Design
+* SQL Fundamentals
+
+### 🧰 Developer Tools
+
+* Git & GitHub
+* Postman
+* IntelliJ IDEA
+* VS Code
+* Maven
+
+### 📚 Core Concepts
+
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms
+* MVC Architecture
+* API Design
+* Authentication & Authorization Basics
+* Clean Code Principles
 
 ---
 
-### 💊 [Medicine E-commerce REST API](https://github.com/Canushka/Ecom)  
-- Secure login & registration (DTOs + hashed passwords 🔐)  
-- CRUD for medicine inventory  
-- Controller → Service → Repository = Clean, modular architecture  
+## 📌 Featured Projects
+
+### 📘 Book Management REST API
+
+🔗 https://github.com/Canushka/BookApplication
+
+A backend application demonstrating REST API development using Spring Boot.
+
+**Features:**
+
+* CRUD operations using Spring Boot
+* Database integration using Spring Data JPA
+* MVC layered architecture
+* Dynamic search functionality
+* Clean Controller → Service → Repository structure
+
+**Tech:** Java | Spring Boot | JPA | H2 Database | REST API
 
 ---
 
-## 🚀 Currently Hacking On  
-- Spring Security (because “Hello World” isn’t secure enough)  
-- More mini REST APIs (practice > theory)  
-- DSA in Java → LeetCode, HackerRank grind 🔥  
+### 💊 Medicine E-commerce REST API
+
+🔗 https://github.com/Canushka/Ecom
+
+A backend e-commerce system focused on authentication and inventory management.
+
+**Features:**
+
+* User registration and login
+* Password hashing
+* DTO-based request handling
+* Medicine inventory CRUD operations
+* Modular backend architecture
+
+**Tech:** Java | Spring Boot | JPA | REST API
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Currently Learning
+
+* Spring Security + JWT Authentication
+* Advanced Java & Multithreading
+* MySQL Optimization
+* Microservices Architecture
+* System Design Fundamentals
+* FinTech Backend Concepts
+
+---
+
+## 🎯 Current Goals
+
+✔ Build production-quality backend applications
+✔ Strengthen problem-solving with Java DSA
+✔ Explore payment systems, secure APIs, and distributed backend design
+✔ Learn cloud deployment and DevOps fundamentals
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Canushka&show_icons=true&theme=radical" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canushka&layout=compact&theme=radical" height="180">
 </p>
 
-![Snake animation](https://github.com/Canushka/Canushka/blob/output/github-contribution-grid-snake.svg)
+---
+
+## Beyond Code
+
+☕ Fueled by curiosity and continuous learning
+🐞 Debugging problems one exception at a time
+📚 Always building, breaking, and improving
 
 ---
 
-## 🧩 Fun Dev Facts  
+## 🌐 Let’s Connect
 
-- I treat humans like APIs → *need to see the docs first*  
-- My playlists switch between **Arctic Monkeys & Doja Cat** faster than my Git branches  
-- Debugging at 3AM feels like espionage 🕵🏻‍♀️  
-- Dogs > humans. (Fight me.)  
+LinkedIn:
+https://www.linkedin.com/in/anushka-chatterjee-624877305/
 
----
+GitHub:
+https://github.com/Canushka
 
-## 🌐 Let’s Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anushka-blue?logo=linkedin)](https://www.linkedin.com/in/anushka-chatterjee-624877305/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Canushka-black?logo=github)](https://github.com/Canushka)  
-
-📫 Drop me a mail at **anushkachatterjee1104@gmail.com**  
+📫 Email: [anushkachatterjee1104@gmail.com](mailto:anushkachatterjee1104@gmail.com)
 
 ---
 
-👉 *PRs, collabs, or just memes about `NullPointerException` → all welcome here.*  
+⭐ Always open to learning, collaboration, and building meaningful software.
