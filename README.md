@@ -102,10 +102,10 @@ A backend e-commerce system focused on authentication and inventory management.
 
 ## 🎯 Current Goals
 
-✔ Build production-quality backend applications
-✔ Strengthen problem-solving with Java DSA
-✔ Explore payment systems, secure APIs, and distributed backend design
-✔ Learn cloud deployment and DevOps fundamentals
+* Build production-quality backend applications
+* Strengthen problem-solving with Java DSA
+* Explore payment systems, secure APIs, and distributed backend design
+* Learn cloud deployment and DevOps fundamentals
 
 ---
 
@@ -120,9 +120,9 @@ A backend e-commerce system focused on authentication and inventory management.
 
 ## Beyond Code
 
-☕ Fueled by curiosity and continuous learning
-🐞 Debugging problems one exception at a time
-📚 Always building, breaking, and improving
+* Fueled by curiosity and continuous learning
+* Debugging problems one exception at a time
+* Always building, breaking, and improving
 
 ---
 
