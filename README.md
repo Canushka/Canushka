@@ -134,7 +134,7 @@ https://www.linkedin.com/in/anushka-chatterjee-624877305/
 GitHub:
 https://github.com/Canushka
 
-📫 Email: [anushkachatterjee1104@gmail.com](mailto:anushkachatterjee1104@gmail.com)
+ Email: [anushkachatterjee1104@gmail.com](mailto:anushkachatterjee1104@gmail.com)
 
 ---
 
