@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Anushka Chatterjee
+# Hey, I’m Anushka Chatterjee
 
 💻 **Java Backend Developer | Spring Boot | REST API Developer**
 🚀 Building scalable backend systems with clean architecture, secure APIs, and reliable database design.
